@@ -5,3 +5,7 @@ A fim de engajar mais a comunidade e contribuir para o aprimoramento social, foi
 Este é o repositório **Livros**, que conterá os arquivos de todos os livros desenvolvidos com o "selo" da comunidade.
 
 _Em breve mais informações sobre o projeto._
+ 
+Na [Wiki do repositório](https://github.com/desenvolvedoresweb/livros/wiki/Avisos-gerais) você encontra os Avisos Gerais.
+
+
